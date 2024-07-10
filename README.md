@@ -1,2 +1,3 @@
-Common 
+Common command-line aquarium emulator
+Run code with command "dart ./lib/main.dart" and wait...
 # Aquarium
